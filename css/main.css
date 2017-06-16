@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+
+}
+h1 {
+  color: white;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 15px;
+    height: 35px;
+    width: 29%;
+    font: inherit;
+    color: inherit;
+    border-radius: 4px;
+}
+
+
+.h1, h1 {
+    font-size: 45px;
+    text-transform: capitalize;
+    font-family: 'Nova Mono', monospace;
+}
+
+p {
+    margin: 0 0 10px;
+    font-size: 18px;
+    color: white;
+}
